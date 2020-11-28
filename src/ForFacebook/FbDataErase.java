@@ -100,7 +100,6 @@ public class FbDataErase {
 		        lastHeight1 = newHeight1;
 		        
 		        break_count1++;
-		        //System.out.println("break_count1 -"+break_count1);
 		    }
 		} catch (InterruptedException e) {
 		    e.printStackTrace();
